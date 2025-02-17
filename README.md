@@ -52,6 +52,12 @@ python src/nostr-client.py
 [0] Beenden
 ```
 
+![Bildschirmfoto vom 2025-02-17 22-02-58](https://github.com/user-attachments/assets/4fc8e479-96ee-4bdd-a5db-820ff9bb39a1)
+![Bildschirmfoto vom 2025-02-17 22-03-54](https://github.com/user-attachments/assets/fbfe62f2-a0c3-4b80-b93c-f4e20bff70aa)
+
+
+
+
 ### Schlüsselverwaltung 🔑
 - **Neue Schlüssel generieren**: Erstellt neues Schlüsselpaar mit Benutzernamen
 - **Schlüssel speichern**: Exportiert Schlüssel als verschlüsselte JSON-Datei
@@ -142,21 +148,13 @@ git push origin feature/mein-tolles-feature
 
 ## 📜 Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz - siehe [LICENSE](LICENSE) für Details.
+Dieses Projekt steht unter der MIT-Lizenz
 
 ---
 
 **Hinweis**: Dies ist ein Entwicklungsprojekt und sollte nicht für sensible Daten verwendet werden.
 ```
 
-Diese README enthält nun:
-- Ausführliche Installationsanleitung mit Code-Blöcken
-- Visuell ansprechende Badges
-- Klare Menüerklärungen
-- Technische Spezifikationen
-- Sicherheitshinweise
-- Beitragsrichtlinien
-- Lizenzinformationen
 - Responsive Formatierung für GitHub
 
 Ergänze noch einen aussagekräftigen Demo-GIF in den `/docs` Ordner für die visuelle Darstellung der Funktionen.
