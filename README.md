@@ -1,11 +1,18 @@
-```markdown
-# Nostr-Client 🚀
 
-[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/dein-username/nostr-client-console)
+# Nostr Console Client 🔍
 
-Ein feature-reicher Nostr-client-console) mit intuitiver Terminal-Oberfläche für die Nostr-Protokoll-Interaktion.
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)](https://www.python.org/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Nostr NIPs](https://img.shields.io/badge/Nostr-NIPs-green)](https://github.com/nostr-protocol/nips)
+
+Ein feature-reicher Terminal-Client für das Nostr-Netzwerk mit folgenden Funktionen:
+
+✨ **Features**:
+- 🗝️ Schlüsselgenerierung & -import/export
+- 📨 Nachrichtenversand mit NIP-07 Signatur
+- 🔍 Event-Subscriptions
+- 🌐 Multi-Relay Support
+- 📂 Persistente Speicherung
 
 
 ## 📦 Installation
@@ -150,5 +157,5 @@ Dieses Projekt steht unter der MIT-Lizenz
 ---
 
 **Hinweis**: Dies ist ein Entwicklungsprojekt und sollte nicht für sensible Daten verwendet werden.
-```
+
 
