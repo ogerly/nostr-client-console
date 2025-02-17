@@ -1,15 +1,12 @@
-Hier ist eine verbesserte, umfassendere README.md:
-
 ```markdown
 # Nostr-Client 🚀
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/dein-username/nostr-client)
+![GitHub last commit](https://img.shields.io/github/last-commit/dein-username/nostr-client-console)
 
-Ein feature-reicher Nostr-Client mit intuitiver Terminal-Oberfläche für die Nostr-Protokoll-Interaktion.
+Ein feature-reicher Nostr-client-console) mit intuitiver Terminal-Oberfläche für die Nostr-Protokoll-Interaktion.
 
-![Terminal Demo](docs/demo.gif)
 
 ## 📦 Installation
 
@@ -20,8 +17,8 @@ Ein feature-reicher Nostr-Client mit intuitiver Terminal-Oberfläche für die No
 ### Schritt-für-Schritt
 1. Repository klonen:
 ```bash
-git clone https://github.com/dein-username/nostr-client.git
-cd nostr-client
+git clone https://github.com/dein-username/nostr-client-console).git
+cd nostr-client-console)
 ```
 
 2. Virtuelle Umgebung erstellen (empfohlen):
@@ -110,7 +107,7 @@ Standardmäßig konfigurierte Relays:
 
 ### Dateistruktur
 ```bash
-nostr-client/
+nostr-client-console)/
 ├── src/
 │   ├── nostr-client.py      # Hauptanwendung
 │   └── requirements.txt     # Abhängigkeiten
@@ -155,6 +152,3 @@ Dieses Projekt steht unter der MIT-Lizenz
 **Hinweis**: Dies ist ein Entwicklungsprojekt und sollte nicht für sensible Daten verwendet werden.
 ```
 
-- Responsive Formatierung für GitHub
-
-Ergänze noch einen aussagekräftigen Demo-GIF in den `/docs` Ordner für die visuelle Darstellung der Funktionen.
