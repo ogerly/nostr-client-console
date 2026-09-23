@@ -48,9 +48,14 @@ wheels/
 
 # Nostr-spezifisch
 *.nostr_keys.json
+*_nostr_keys.json
 *_messages.json
 encryption.key
 
 # Sonstiges
 .DS_Store
 Thumbs.db
+# AAMS workspace
+WORKING/LOGS/*
+!WORKING/LOGS/.gitkeep
+WORKING/WORKPAPER/*.tmp
